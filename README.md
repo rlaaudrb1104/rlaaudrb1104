@@ -17,15 +17,21 @@
 </p>
 
 <h3 align="left"> About Me</h3>
- <a href="mailto:rlaaudrb1104@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=black"/></a>
+ <a href="mailto:rlaaudrb1104@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/>
+ </a>
 
-<a href="https://rlaaudrb1104.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/tistory-orange?style=for-the-badge&logo=tistory&logoColor=white"></a>
-<a href=https://www.instagram.com/myeonggyu1104/" target="_blank"><img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href="https://rlaaudrb1104.tistory.com/" target="_blank">
+<img src="https://img.shields.io/badge/tistory-orange?style=for-the-badge&logo=tistory&logoColor=white">
+</a>
+<a href=https://www.instagram.com/myeonggyu1104/" target="_blank">
+ <img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white">
+</a>
 
-![MyeongGyu's GitHub stats](https://github-readme-stats.vercel.app/api?username=rlaaudrb1104&theme=white&show_icons=true)
 
-<a href="github.com/rlaaudrb1104/python-study">![MyeongGyu's shadow_blue_repo](https://github-readme-stats.vercel.app/api/pin/?username=rlaaudrb1104&repo=python-study&cache_seconds=86400&theme=blue)</a>
-![MyeongGyu's shadow_blue_repo](https://github-readme-stats.vercel.app/api/pin/?username=rlaaudrb1104&repo=web-project&cache_seconds=86400&theme=_blue)
-![MyeongGyu's shadow_blue_repo](https://github-readme-stats.vercel.app/api/pin/?username=rlaaudrb1104&repo=clerk&cache_seconds=86400&theme=blue)
-![MyeongGyu's shadow_blue_repo](https://github-readme-stats.vercel.app/api/pin/?username=rlaaudrb1104&repo=C&cache_seconds=86400&theme=blue)
+![MyeongGyu's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=transparent)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rlaaudrb1104&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+
+![MyeongGyu's repo](https://github-readme-stats.vercel.app/api/pin/?username=rlaaudrb1104&repo=python-study&cache_seconds=86400&theme=transparent) ![MyeongGyu's_repo](https://github-readme-stats.vercel.app/api/pin/?username=rlaaudrb1104&repo=web-project&cache_seconds=86400&theme=transparent)
+
+![MyeongGyu's_repo](https://github-readme-stats.vercel.app/api/pin/?username=rlaaudrb1104&repo=clerk&cache_seconds=86400&theme=transparent) ![MyeongGyu's_repo](https://github-readme-stats.vercel.app/api/pin/?username=rlaaudrb1104&repo=C&cache_seconds=86400&theme=transparent)
 
