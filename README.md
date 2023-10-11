@@ -17,13 +17,10 @@
 </p>
 
 <h3 align="left"> About Me</h3>
+ <a href="mailto:rlaaudrb1104@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=black"/></a>
 
-<a href="https://rlaaudrb1104.tistory.com/" target="_blank">
-  <img src="https://img.shields.io/badge/tistory-orange?style=for-the-badge&logo=tistory&logoColor=white">
-</a>
-<a href=https://www.instagram.com/myeonggyu1104/" target="_blank">
-  <img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-</a>
+<a href="https://rlaaudrb1104.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/tistory-orange?style=for-the-badge&logo=tistory&logoColor=white"></a>
+<a href=https://www.instagram.com/myeonggyu1104/" target="_blank"><img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 
 ![MyeongGyu's GitHub stats](https://github-readme-stats.vercel.app/api?username=rlaaudrb1104&theme=white&show_icons=true)
 
