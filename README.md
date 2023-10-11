@@ -13,19 +13,19 @@
 
 <p align="left">
 <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
-<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">//깃허브 주소 추가해도되고 난 귀찮아서 안함
 </p>
 
 <h3 align="left"> 🪄 Me 🪄 </h3>
 
-<a href="https://rlaaudrb1104.tistory.com/" target="_blank">
+<a href="https://rlaaudrb1104.tistory.com/" target="_blank">//블로그 링크 바꾸셈
   <img src="https://img.shields.io/badge/tistory-orange?style=for-the-badge&logo=tistory&logoColor=white">
 </a>
-<a href=https://www.instagram.com/myeonggyu1104/" target="_blank">
+<a href=https://www.instagram.com/myeonggyu1104/" target="_blank">//인스타도 내꺼로 해놨었는데 차피 연결안되서 의미없음
   <img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
 
-![jeonyubyeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeonyubyeong&theme=shadow_green&show_icons=true)
+![MyeongGyu's GitHub stats](https://github-readme-stats.vercel.app/api?username=rlaaudrb1104&theme=shadow_green&show_icons=true)
 
-![jeonyubyeong's shadow_blue_repo](https://github-readme-stats.vercel.app/api/pin/?username=jeonyubyeong&repo=clerk&cache_seconds=86400&theme=shadow_blue)
-![jeonyubyeong's shadow_blue_repo](https://github-readme-stats.vercel.app/api/pin/?username=jeonyubyeong&repo=project1&cache_seconds=86400&theme=shadow_blue)
+![MyeongGyu's shadow_blue_repo](https://github-readme-stats.vercel.app/api/pin/?username=rlaaudrb1104&repo=clerk&cache_seconds=86400&theme=shadow_blue)
+![MyeongGyu's shadow_blue_repo](https://github-readme-stats.vercel.app/api/pin/?username=rlaaudrb1104&repo=C&cache_seconds=86400&theme=shadow_blue)
