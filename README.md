@@ -1,4 +1,4 @@
-![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Welcome%20to%20Yubyeong's%20Github👋&fontSize=40&fontAlign=60&fontAlignY=40&color=gradient)
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Welcome%20to%20MyeongGyu's%20Github👋&fontSize=40&fontAlign=60&fontAlignY=40&color=gradient)
 
 <h3 align="left">🛠 Technology Stacks</h3>
 
@@ -18,10 +18,10 @@
 
 <h3 align="left"> 🪄 Me 🪄 </h3>
 
-<a href="https://yubyeong.tistory.com/" target="_blank">
+<a href="https://rlaaudrb1104.tistory.com/" target="_blank">
   <img src="https://img.shields.io/badge/tistory-orange?style=for-the-badge&logo=tistory&logoColor=white">
 </a>
-<a href=https://www.instagram.com/u_byeong/" target="_blank">
+<a href=https://www.instagram.com/myeonggyu1104/" target="_blank">
   <img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
 
