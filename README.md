@@ -27,5 +27,8 @@
 
 ![MyeongGyu's GitHub stats](https://github-readme-stats.vercel.app/api?username=rlaaudrb1104&theme=white&show_icons=true)
 
+<a href="github.com/rlaaudrb1104/python-study">![MyeongGyu's shadow_blue_repo](https://github-readme-stats.vercel.app/api/pin/?username=rlaaudrb1104&repo=python-study&cache_seconds=86400&theme=blue)</a>
+![MyeongGyu's shadow_blue_repo](https://github-readme-stats.vercel.app/api/pin/?username=rlaaudrb1104&repo=web-project&cache_seconds=86400&theme=_blue)
 ![MyeongGyu's shadow_blue_repo](https://github-readme-stats.vercel.app/api/pin/?username=rlaaudrb1104&repo=clerk&cache_seconds=86400&theme=blue)
-![MyeongGyu's shadow_blue_repo](https://github-readme-stats.vercel.app/api/pin/?username=rlaaudrb1104&repo=C&cache_seconds=86400&theme=_blue)
+![MyeongGyu's shadow_blue_repo](https://github-readme-stats.vercel.app/api/pin/?username=rlaaudrb1104&repo=C&cache_seconds=86400&theme=blue)
+
