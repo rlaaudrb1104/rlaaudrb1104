@@ -29,7 +29,7 @@
 </a>
 
 
-![MyeongGyu's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=transparent)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rlaaudrb1104&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+![MyeongGyu's GitHub stats](https://github-readme-stats.vercel.app/api?username=rlaaudrb1104&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=transparent)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rlaaudrb1104&layout=compact&theme=transparent)](https://github.com/rlaaudrb1104)
 
 ![MyeongGyu's repo](https://github-readme-stats.vercel.app/api/pin/?username=rlaaudrb1104&repo=python-study&cache_seconds=86400&theme=transparent) ![MyeongGyu's_repo](https://github-readme-stats.vercel.app/api/pin/?username=rlaaudrb1104&repo=web-project&cache_seconds=86400&theme=transparent)
 
