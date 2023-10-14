@@ -7,6 +7,10 @@
 <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<br>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/>
+
 </p>
 
 <h3 align="left">📚 Dispersion Version Control </h3>
@@ -31,6 +35,7 @@
 
 ![MyeongGyu's GitHub stats](https://github-readme-stats.vercel.app/api?username=rlaaudrb1104&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=transparent)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rlaaudrb1104&layout=compact&theme=transparent)](https://github.com/rlaaudrb1104)
 
+[![MyeongGyu's_repo](https://github-readme-stats.vercel.app/api/pin/?username=rlaaudrb1104&repo=protfolio&cache_seconds=86400&theme=transparent)](https://github.com/rlaaudrb1104/portfolio)
 [![MyeongGyu's repo](https://github-readme-stats.vercel.app/api/pin/?username=rlaaudrb1104&repo=python-study&cache_seconds=86400&theme=transparent)](https://github.com/rlaaudrb1104/python-study) [![MyeongGyu's_repo](https://github-readme-stats.vercel.app/api/pin/?username=rlaaudrb1104&repo=web-project&cache_seconds=86400&theme=transparent)](https://github.com/rlaaudrb1104/web-project)
 
 [![MyeongGyu's_repo](https://github-readme-stats.vercel.app/api/pin/?username=rlaaudrb1104&repo=clerk&cache_seconds=86400&theme=transparent)](https://github.com/rlaaudrb1104/clerk) [![MyeongGyu's_repo](https://github-readme-stats.vercel.app/api/pin/?username=rlaaudrb1104&repo=C&cache_seconds=86400&theme=transparent)](https://github.com/rlaaudrb1104/C)
