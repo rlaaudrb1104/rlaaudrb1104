@@ -35,7 +35,7 @@
 
 ![MyeongGyu's GitHub stats](https://github-readme-stats.vercel.app/api?username=rlaaudrb1104&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=transparent)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rlaaudrb1104&layout=compact&theme=transparent)](https://github.com/rlaaudrb1104)
 
-[![MyeongGyu's_repo](https://github-readme-stats.vercel.app/api/pin/?username=rlaaudrb1104&repo=protfolio&cache_seconds=86400&theme=transparent)](https://github.com/rlaaudrb1104/portfolio)
+
 [![MyeongGyu's repo](https://github-readme-stats.vercel.app/api/pin/?username=rlaaudrb1104&repo=python-study&cache_seconds=86400&theme=transparent)](https://github.com/rlaaudrb1104/python-study) [![MyeongGyu's_repo](https://github-readme-stats.vercel.app/api/pin/?username=rlaaudrb1104&repo=web-project&cache_seconds=86400&theme=transparent)](https://github.com/rlaaudrb1104/web-project)
 
 [![MyeongGyu's_repo](https://github-readme-stats.vercel.app/api/pin/?username=rlaaudrb1104&repo=clerk&cache_seconds=86400&theme=transparent)](https://github.com/rlaaudrb1104/clerk) [![MyeongGyu's_repo](https://github-readme-stats.vercel.app/api/pin/?username=rlaaudrb1104&repo=C&cache_seconds=86400&theme=transparent)](https://github.com/rlaaudrb1104/C)
